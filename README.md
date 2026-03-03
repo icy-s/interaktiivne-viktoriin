@@ -2,6 +2,10 @@
 
 Veebiarenduse praktikandi kodutöö lahendus.
 
+## Veebidemo
+
+https://interaktiivne-viktoriin.vercel.app
+
 ## Käivitamine
 
 ```bash
